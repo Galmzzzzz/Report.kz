@@ -1,0 +1,202 @@
+[
+  {
+    "id": 101,
+    "category": "Вывоз мусора",
+    "address": "ул. Абая, 45",
+    "status": "В работе",
+    "created_at": "2025-11-01",
+    "description": "Не вывезен мусор с контейнерной площадки",
+    "latitude": 53.2205,
+    "longitude": 63.6283
+  },
+  {
+    "id": 102,
+    "category": "Освещение улиц",
+    "address": "пр. Аль-Фараби, 10",
+    "status": "Решено",
+    "created_at": "2025-10-28",
+    "description": "Не горит фонарь во дворе",
+    "latitude": 53.2156,
+    "longitude": 63.6209
+  },
+  {
+    "id": 103,
+    "category": "Дороги",
+    "address": "ул. Мира, 22",
+    "status": "В работе",
+    "created_at": "2025-11-02",
+    "description": "Ямы на проезжей части",
+    "latitude": 53.2180,
+    "longitude": 63.6250
+  },
+  {
+    "id": 104,
+    "category": "Водоснабжение",
+    "address": "ул. Тауелсиздик, 5",
+    "status": "Отклонено",
+    "created_at": "2025-11-03",
+    "description": "Нет воды в кране",
+    "latitude": 53.2170,
+    "longitude": 63.6300
+  },
+  {
+    "id": 105,
+    "category": "Освещение улиц",
+    "address": "ул. Ленина, 18",
+    "status": "Решено",
+    "created_at": "2025-10-30",
+    "description": "Свет не работает на перекрестке",
+    "latitude": 53.2190,
+    "longitude": 63.6220
+  },
+  {
+    "id": 106,
+    "category": "Вывоз мусора",
+    "address": "ул. Абая, 50",
+    "status": "В работе",
+    "created_at": "2025-11-01",
+    "description": "Контейнеры переполнены",
+    "latitude": 53.2210,
+    "longitude": 63.6290
+  },
+  {
+    "id": 107,
+    "category": "Дороги",
+    "address": "пр. Республики, 12",
+    "status": "Решено",
+    "created_at": "2025-10-27",
+    "description": "Трещины на асфальте",
+    "latitude": 53.2165,
+    "longitude": 63.6230
+  },
+  {
+    "id": 108,
+    "category": "Водоснабжение",
+    "address": "ул. Кунаева, 33",
+    "status": "В работе",
+    "created_at": "2025-11-04",
+    "description": "Протечка в трубах",
+    "latitude": 53.2185,
+    "longitude": 63.6275
+  },
+  {
+    "id": 109,
+    "category": "Освещение улиц",
+    "address": "ул. Панфилова, 7",
+    "status": "Отклонено",
+    "created_at": "2025-10-29",
+    "description": "Фонарь мигает",
+    "latitude": 53.2140,
+    "longitude": 63.6190
+  },
+  {
+    "id": 110,
+    "category": "Вывоз мусора",
+    "address": "пр. Достык, 20",
+    "status": "В работе",
+    "created_at": "2025-11-02",
+    "description": "Мусор не забрали вовремя",
+    "latitude": 53.2220,
+    "longitude": 63.6310
+  },
+  {
+    "id": 111,
+    "category": "Дороги",
+    "address": "ул. Мухтара Ауэзова, 15",
+    "status": "Решено",
+    "created_at": "2025-10-26",
+    "description": "Разбитый тротуар",
+    "latitude": 53.2175,
+    "longitude": 63.6240
+  },
+  {
+    "id": 112,
+    "category": "Водоснабжение",
+    "address": "ул. Калдаякова, 9",
+    "status": "В работе",
+    "created_at": "2025-11-03",
+    "description": "Слабый напор воды",
+    "latitude": 53.2195,
+    "longitude": 63.6285
+  },
+  {
+    "id": 113,
+    "category": "Освещение улиц",
+    "address": "ул. Сатпаева, 28",
+    "status": "Решено",
+    "created_at": "2025-10-31",
+    "description": "Свет не включается",
+    "latitude": 53.2150,
+    "longitude": 63.6210
+  },
+  {
+    "id": 114,
+    "category": "Вывоз мусора",
+    "address": "ул. Абылайхана, 11",
+    "status": "Отклонено",
+    "created_at": "2025-11-01",
+    "description": "Контейнер на углу не опорожняется",
+    "latitude": 53.2230,
+    "longitude": 63.6320
+  },
+  {
+    "id": 115,
+    "category": "Дороги",
+    "address": "ул. Байзакова, 19",
+    "status": "В работе",
+    "created_at": "2025-11-02",
+    "description": "Выбоины на дороге",
+    "latitude": 53.2160,
+    "longitude": 63.6255
+  },
+  {
+    "id": 116,
+    "category": "Освещение улиц",
+    "address": "ул. Жибек Жолы, 6",
+    "status": "Решено",
+    "created_at": "2025-10-28",
+    "description": "Фонарь не горит вечером",
+    "latitude": 53.2145,
+    "longitude": 63.6200
+  },
+  {
+    "id": 117,
+    "category": "Водоснабжение",
+    "address": "пр. Гагарина, 14",
+    "status": "В работе",
+    "created_at": "2025-11-04",
+    "description": "Холодная вода отсутствует",
+    "latitude": 53.2188,
+    "longitude": 63.6270
+  },
+  {
+    "id": 118,
+    "category": "Вывоз мусора",
+    "address": "ул. Казыбек би, 21",
+    "status": "Решено",
+    "created_at": "2025-10-30",
+    "description": "Мусор убрали частично",
+    "latitude": 53.2215,
+    "longitude": 63.6295
+  },
+  {
+    "id": 119,
+    "category": "Дороги",
+    "address": "ул. Сейфуллина, 4",
+    "status": "Отклонено",
+    "created_at": "2025-10-29",
+    "description": "Асфальт провалился",
+    "latitude": 53.2172,
+    "longitude": 63.6235
+  },
+  {
+    "id": 120,
+    "category": "Освещение улиц",
+    "address": "ул. Момышулы, 13",
+    "status": "В работе",
+    "created_at": "2025-11-01",
+    "description": "Фонарь сломан",
+    "latitude": 53.2158,
+    "longitude": 63.6215
+  }
+]
